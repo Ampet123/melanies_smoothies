@@ -1,2 +1,3 @@
 # requirements.txt
-snowflake-snowspark-python=0.7.0
+snowflake-snowspark-python==3.8
+streamlit
